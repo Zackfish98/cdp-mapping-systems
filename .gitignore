@@ -35,3 +35,6 @@ __pycache__/
 *.pyc
 /cdptools.egg-info
 Personal Work/Pathmapping_Tool/Data/
+
+# Standalone nested repo (has its own .git + GitHub remote) -- managed separately
+/geolocate-har-file/
